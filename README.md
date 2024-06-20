@@ -1,7 +1,8 @@
-# Application Programming Interfaces
+# iSAQB Module API (Application Programming Interfaces)
 
 - [Proposal for API Module](proposal.md)
 - [iSAQB Module Curricula](iSAQB-modules/)
+
 
 ## Web Resources
 
