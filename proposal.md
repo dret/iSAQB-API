@@ -2,8 +2,17 @@
 
 ## iSAQB Modul API
 
+### Was vermittelt das Modul API?
 
-## Referenzen
+### Gliederung des Lehrplans und zeitliche Aufteilung
+
+### Dauer, Didaktik und weitere Details
+
+### Voraussetzungen für das Modul API
+
+### Detaillierte Beschreibung der Kapitel
+
+### Referenzen
 
 - [James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", 2023](https://www.pearson.com/en-us/subject-catalog/p/principles-of-web-api-design-delivering-value-with-apis-and-microservices/P200000007278/9780137355730)
 - [Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024](https://leanpub.com/platformstrategy)
