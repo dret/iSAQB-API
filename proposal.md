@@ -12,6 +12,8 @@
 
 ### Detaillierte Beschreibung der Kapitel
 
+#### Wertschöpfung von APIs
+
 ### Referenzen
 
 - [James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", 2023](https://www.pearson.com/en-us/subject-catalog/p/principles-of-web-api-design-delivering-value-with-apis-and-microservices/P200000007278/9780137355730)
