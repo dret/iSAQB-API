@@ -25,6 +25,19 @@ APIs at Scale: Platforms und Governance | 60 | 60
 
 ### Voraussetzungen für das Modul API
 
+Teilnehmer sollten folgende Kenntnisse und/oder Erfahrungen mitbringen:
+
+- Grundlagen strukturierter Daten, insbesondere JSON und YAML
+- Basiskenntnisse von Web-Technologien wie HTTP und URIs
+- Basiskenntnisse und Erfahrung mit mindestens einer Programmiersprache
+
+
+Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
+
+- Praktische Erfahrungen in der Programmierung von Web-Anwendungen
+- Basiskenntnisse von Sicherheitstechnologien wie SSL/TLS und OAuth
+
+
 ### Detaillierte Beschreibung der Kapitel
 
 ### Referenzen
