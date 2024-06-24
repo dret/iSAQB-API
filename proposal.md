@@ -36,48 +36,58 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 - Vortrag: 90min
 - Übungen: keine
+- Lernziele:
+ - Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
+ - Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
+ - Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
 #### Wertschöpfung von APIs 
 
 - Vortrag: 90min
 - Übungen: 60min
+- Lernziele: 
 
 
 #### API Stile und Technologien 
 
 - Vortrag: 60min
 - Übungen: 30min
+- Lernziele: 
 
 
 #### Beschreibung von APIs am Beispiel OpenAPI 
 
 - Vortrag: 90min
 - Übungen: 60min
-
+- Lernziele: 
 
 #### API Design 
 
 - Vortrag: 90min
 - Übungen: 60min
+- Lernziele: 
 
 
 #### API Lifecycle und API Tooling 
 
 - Vortrag: 60min
 - Übungen: 60min
+- Lernziele: 
 
 
 #### API Security 
 
 - Vortrag: 60min
 - Übungen: 30min
+- Lernziele: 
 
 
 #### APIs at Scale: Platforms und Governance 
 
 - Vortrag: 60min
 - Übungen: 60min
+- Lernziele: 
 
 
 ### Referenzen
