@@ -11,7 +11,7 @@ Application Programming Interfaces, oder APIs, ermöglichen die Nutzung von digi
 
 *Inhalt* | *Vortrag (empfohlene Dauer)* | *Übungen (empfohlene Dauer)*
 :-- | :--: | :--:
-Übersicht und Einführung | 60 | x
+Übersicht und Einführung | 90 | x
 Wertschöpfung von APIs | 90 | 60
 API Stile und Technologien | 60 | 30
 Beschreibung von APIs am Beispiel OpenAPI | 90 | 60
