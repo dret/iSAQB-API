@@ -30,23 +30,54 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Basiskenntnisse von Sicherheitstechnologien wie SSL/TLS und OAuth
 
 
-### Detaillierte Beschreibung der Kapitel
+### Detaillierte Beschreibung der Teile
 
-#### Übersicht und Einführung | 90 | x
+#### Übersicht und Einführung 
 
-#### Wertschöpfung von APIs | 90 | 60
+- Vortrag: 90min
+- Übungen: keine
 
-#### API Stile und Technologien | 60 | 30
 
-#### Beschreibung von APIs am Beispiel OpenAPI | 90 | 60
+#### Wertschöpfung von APIs 
 
-#### API Design | 90 | 60
+- Vortrag: 90min
+- Übungen: 60min
 
-#### API Lifecycle und API Tooling | 60 | 60
 
-#### API Security | 60 | 30
+#### API Stile und Technologien 
 
-#### APIs at Scale: Platforms und Governance | 60 | 60
+- Vortrag: 60min
+- Übungen: 30min
+
+
+#### Beschreibung von APIs am Beispiel OpenAPI 
+
+- Vortrag: 90min
+- Übungen: 60min
+
+
+#### API Design 
+
+- Vortrag: 90min
+- Übungen: 60min
+
+
+#### API Lifecycle und API Tooling 
+
+- Vortrag: 60min
+- Übungen: 60min
+
+
+#### API Security 
+
+- Vortrag: 60min
+- Übungen: 30min
+
+
+#### APIs at Scale: Platforms und Governance 
+
+- Vortrag: 60min
+- Übungen: 60min
 
 
 ### Referenzen
