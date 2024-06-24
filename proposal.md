@@ -9,15 +9,23 @@ Application Programming Interfaces, oder APIs, ermöglichen die Nutzung von digi
 
 ### Gliederung des Lehrplans und zeitliche Aufteilung
 
+*Inhalt* | *Vortrag (empfohlene Dauer)* | *Übungen (empfohlene Dauer)*
+:-- | :--: | :--:
+Übersicht und Einführung | 60 | x
+Wertschöpfung von APIs | 90 | 60
+API Stile und Technologien | 60 | 30
+Beschreibung von APIs am Beispiel OpenAPI | 90 | 60
+API Design | 90 | 60
+API Lifecycle und API Tooling | 60 | 60
+API Security | 60 | 30
+APIs at Scale: Platforms und Governance | 60 | 60
+
+
 ### Dauer, Didaktik und weitere Details
 
 ### Voraussetzungen für das Modul API
 
 ### Detaillierte Beschreibung der Kapitel
-
-#### Wertschöpfung von APIs
-
-#### Beschreibung von APIs am Beispiel OpenAPI
 
 ### Referenzen
 
