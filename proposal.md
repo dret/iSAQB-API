@@ -11,15 +11,7 @@ Application Programming Interfaces, oder APIs, ermöglichen die Nutzung von digi
 
 *Inhalt* | *Vortrag (empfohlene Dauer)* | *Übungen (empfohlene Dauer)*
 :-- | :--: | :--:
-Übersicht und Einführung | 90 | x
-Wertschöpfung von APIs | 90 | 60
-API Stile und Technologien | 60 | 30
-Beschreibung von APIs am Beispiel OpenAPI | 90 | 60
-API Design | 90 | 60
-API Lifecycle und API Tooling | 60 | 60
-API Security | 60 | 30
-APIs at Scale: Platforms und Governance | 60 | 60
-
+()
 
 ### Dauer, Didaktik und weitere Details
 
@@ -39,6 +31,23 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 
 ### Detaillierte Beschreibung der Kapitel
+
+#### Übersicht und Einführung | 90 | x
+
+#### Wertschöpfung von APIs | 90 | 60
+
+#### API Stile und Technologien | 60 | 30
+
+#### Beschreibung von APIs am Beispiel OpenAPI | 90 | 60
+
+#### API Design | 90 | 60
+
+#### API Lifecycle und API Tooling | 60 | 60
+
+#### API Security | 60 | 30
+
+#### APIs at Scale: Platforms und Governance | 60 | 60
+
 
 ### Referenzen
 
