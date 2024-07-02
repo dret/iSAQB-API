@@ -52,12 +52,11 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
  - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
 
-#### API Geschichte, Stile, und Technologien 
+#### API Stile und Technologien 
 
 - Vortrag: 60min
 - Übungen: 30min
 - Lernziele:
- - Kenntnis der Geschichte und Entwicklung von APIs
  - Kenntnis der fünf grundlegenden API Stile und ihrer Stärken und Schwächen im Vergleich
  - Übersicht über populäre API Technologien und deren Einteilung gemäss der fünf grundlegenden API Stile
 
