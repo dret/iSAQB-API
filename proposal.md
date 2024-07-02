@@ -44,9 +44,12 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 #### Wertschöpfung von APIs 
 
-- Vortrag: 90min
-- Übungen: 60min
-- Lernziele: 
+- Vortrag: 60min
+- Übungen: 30min
+- Lernziele:
+ - Verständnis der drei grundlegenden Arten wie API Produkte die Wertschöpfung ermöglichen
+ - Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
+ - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
 
 #### API Stile und Technologien 
