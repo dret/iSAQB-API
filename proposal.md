@@ -68,7 +68,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 - Vortrag: 90min
 - Übungen: 60min
-- Lernziele: 
+- Lernziele:
   - Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
   - Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
   - Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
@@ -79,7 +79,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 - Vortrag: 90min
 - Übungen: 60min
-- Lernziele: 
+- Lernziele:
   - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
   - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
   - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
@@ -87,17 +87,24 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 #### API Lifecycle und API Tooling 
 
-- Vortrag: 60min
-- Übungen: 60min
-- Lernziele: 
+- Vortrag: 90min
+- Übungen: 90min
+- Lernziele:
+  - Verschiedene Schritte des Entwicklungszyklus eines API Produkts
+  - Verschiedene Phasen des Lebenszyklus eines API Produkts
+  - Übersicht über die Unterschiede zwischen der Sichtweise von Produzenten und Konsumenten
+  - Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing, Mocking
 
 
 #### API Security 
 
 - Vortrag: 60min
 - Übungen: 30min
-- Lernziele: 
-
+- Lernziele:
+  - Kenntnisse der Grundlagen von Kommunikationssicherheit und der Einordnung von TCP, HTTP und TLS.
+  - Verständnis von HTTPS, HTTP Authentisierung, OAuth, und OpenID Connect
+  - API Gateways und andere Modelle um APIs abzusichern
+  
 
 #### APIs at Scale: Platforms und Governance 
 
