@@ -39,9 +39,9 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 90min
 - Übungen: keine
 - Lernziele:
- - Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
- - Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
- - Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
+  - Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
+  - Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
+  - Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
 #### Wertschöpfung von APIs 
@@ -49,9 +49,9 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 60min
 - Übungen: 30min
 - Lernziele:
- - Verständnis der drei grundlegenden Arten wie API Produkte die Wertschöpfung ermöglichen
- - Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
- - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
+  - Verständnis der drei grundlegenden Arten wie API Produkte die Wertschöpfung ermöglichen
+  - Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
+  - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
 
 #### API Stile und Technologien 
@@ -59,9 +59,9 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 60min
 - Übungen: 30min
 - Lernziele:
- - Kenntnis der fünf grundlegenden API Stile und ihrer Stärken und Schwächen im Vergleich
- - Übersicht über populäre API Technologien und deren Einteilung gemäss der fünf grundlegenden API Stile
- - Verständnis der Kriterien wann welche Stile mehr oder weniger gut passen und der Konsequenzen der Auswahl
+  - Kenntnis der fünf grundlegenden API Stile und ihrer Stärken und Schwächen im Vergleich
+  - Übersicht über populäre API Technologien und deren Einteilung gemäss der fünf grundlegenden API Stile
+  - Verständnis der Kriterien wann welche Stile mehr oder weniger gut passen und der Konsequenzen der Auswahl
 
 
 #### Beschreibung von APIs am Beispiel OpenAPI 
@@ -69,10 +69,10 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 90min
 - Übungen: 60min
 - Lernziele: 
- - Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
- - Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
- - Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
- - Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
+  - Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
+  - Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
+  - Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
+  - Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
  
 
 #### API Design 
@@ -80,9 +80,9 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 90min
 - Übungen: 60min
 - Lernziele: 
- - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
- - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
- - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
+  - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
+  - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
+  - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
  
 
 #### API Lifecycle und API Tooling 
