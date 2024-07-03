@@ -80,7 +80,9 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 90min
 - Übungen: 60min
 - Lernziele: 
- - 
+ - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
+ - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
+ - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
  
 
 #### API Lifecycle und API Tooling 
