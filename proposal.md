@@ -110,7 +110,11 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 - Vortrag: 60min
 - Übungen: 60min
-- Lernziele: 
+- Lernziele:
+  - Plattformen, Platform Engineering, und Platform as a Product als Verbesserung der Developer Experience und Effektivität
+  - Verwendung und Pflege von API Guidelines um APIs konsistenter zu entwickeln
+  - Beispiele von API Guidelines einiger Organisationen
+  - Team Topologies als organisationelles Modell für effektiv arbeitende Teams
 
 
 ### Referenzen
