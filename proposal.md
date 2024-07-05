@@ -25,8 +25,6 @@ Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schni
 [APIs at Scale: Platforms und Governance](#governance) | 60min | 60min
 *Summe: 14h* | 10h | 4h
 
-### Dauer, Didaktik und weitere Details
-
 ### Voraussetzungen für das Modul API
 
 Teilnehmer sollten folgende Kenntnisse und/oder Erfahrungen mitbringen:
