@@ -25,6 +25,7 @@ Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schni
 [APIs at Scale: Platforms und Governance](#governance) | 60min | 60min
 *Summe: 14h* | 10h | 4h
 
+
 ### Voraussetzungen für das Modul API
 
 Teilnehmer sollten folgende Kenntnisse und/oder Erfahrungen mitbringen:
@@ -32,7 +33,6 @@ Teilnehmer sollten folgende Kenntnisse und/oder Erfahrungen mitbringen:
 - Grundlagen strukturierter Daten, insbesondere JSON und YAML
 - Basiskenntnisse von Web-Technologien wie HTTP und URIs
 - Basiskenntnisse und Erfahrung mit mindestens einer Programmiersprache
-
 
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
