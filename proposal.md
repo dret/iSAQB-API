@@ -1,6 +1,6 @@
 # Application Programming Interfaces
 
-## iSAQB Modul API
+## iSAQB Modul API: Vorschlag von [Thilo Frotscher](https://frotscher.com/) und [Erik Wilde](https://www.linkedin.com/in/erikwilde/)
 
 ### Was vermittelt das Modul API?
 
