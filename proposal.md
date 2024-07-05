@@ -8,6 +8,8 @@ Application Programming Interfaces, oder APIs, ermöglichen die Nutzung von digi
 
 Das Modul betrachtet die verschiedenen Arten, wie APIs Wert erzeugen: Als technische Schnittstellen die es verschiedenen Komponenten ermöglichen miteinander zu kommunizieren; als organisatorische Schnittstellen die es verschiedenen Teams ermöglicht mit weniger gegenseitigen Abhängigkeiten ihre jeweiligen Komponenten zu entwickeln; und als geschäftsorientierte Bausteine die es der Organisation erlauben, neue Dienste schneller und effektiver zu entwickeln. 
 
+Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schnittstellen, also nicht von lokalen Programmierschnittstellen.
+
 
 ### Gliederung des Lehrplans und zeitliche Aufteilung
 
@@ -29,7 +31,7 @@ Teilnehmer sollten folgende Kenntnisse und/oder Erfahrungen mitbringen:
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 - Praktische Erfahrungen in der Programmierung von Web-Anwendungen
-- Basiskenntnisse von Sicherheitstechnologien wie SSL/TLS und OAuth
+- Basiskenntnisse von Sicherheitstechnologien wie SSL/TLS
 
 
 ### Detaillierte Beschreibung der Teile
