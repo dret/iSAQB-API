@@ -15,7 +15,15 @@ Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schni
 
 *Inhalt* | *Vortrag (empfohlene Dauer)* | *Übungen (empfohlene Dauer)*
 :-- | :--: | :--:
-()
+[Übersicht und Einführung](#overview) | 90min | keine
+[Wertschöpfung von APIs](#value) | 60min | 30min
+[API Stile und Technologien](#styles) | 60min | 30min
+[Beschreibung von APIs am Beispiel OpenAPI](#openapi) | 90min | 60min
+[API Design](#design) | 90min | 60min
+[API Lifecycle und API Tooling](#lifecycle) | 90min | 90min
+[API Security](#security) | 60min | 30min
+[APIs at Scale: Platforms und Governance](#governance) | 60min | 60min
+*Summe: 14h* | 10h | 4h
 
 ### Dauer, Didaktik und weitere Details
 
@@ -36,7 +44,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 ### Detaillierte Beschreibung der Teile
 
-#### Übersicht und Einführung 
+#### <a id="overview"></a> Übersicht und Einführung 
 
 - Vortrag: 90min
 - Übungen: keine
@@ -46,7 +54,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
-#### Wertschöpfung von APIs 
+#### <a id="value"></a> Wertschöpfung von APIs 
 
 - Vortrag: 60min
 - Übungen: 30min
@@ -56,7 +64,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
 
-#### API Stile und Technologien 
+#### <a id="styles"></a> API Stile und Technologien 
 
 - Vortrag: 60min
 - Übungen: 30min
@@ -66,7 +74,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Verständnis der Kriterien wann welche Stile mehr oder weniger gut passen und der Konsequenzen der Auswahl
 
 
-#### Beschreibung von APIs am Beispiel OpenAPI 
+#### <a id="openapi"></a> Beschreibung von APIs am Beispiel OpenAPI 
 
 - Vortrag: 90min
 - Übungen: 60min
@@ -77,7 +85,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
  
 
-#### API Design 
+#### <a id="design"></a> API Design 
 
 - Vortrag: 90min
 - Übungen: 60min
@@ -87,7 +95,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
  
 
-#### API Lifecycle und API Tooling 
+#### <a id="lifecycle"></a> API Lifecycle und API Tooling 
 
 - Vortrag: 90min
 - Übungen: 90min
@@ -98,7 +106,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing, Mocking
 
 
-#### API Security 
+#### <a id="security"></a> API Security 
 
 - Vortrag: 60min
 - Übungen: 30min
@@ -108,7 +116,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - API Gateways und andere Modelle um APIs abzusichern
   
 
-#### APIs at Scale: Platforms und Governance 
+#### <a id="governance"></a> APIs at Scale: Platforms und Governance 
 
 - Vortrag: 60min
 - Übungen: 60min
