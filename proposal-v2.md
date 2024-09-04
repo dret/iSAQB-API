@@ -18,11 +18,11 @@ Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schni
 [Übersicht und Einführung](#overview) | 90min | keine
 [Wertschöpfung von APIs](#value) | 60min | 30min
 [API Stile und Technologien](#styles) | 60min | 30min
-[Beschreibung von APIs am Beispiel OpenAPI](#openapi) | 90min | 60min
-[API Design](#design) | 90min | 60min
-[API Lifecycle und API Tooling](#lifecycle) | 90min | 90min
+[Beschreibung von APIs am Beispiel OpenAPI](#openapi) | 90min | 30min
+[API Design](#design) | 90min | 30min
+[API Lifecycle und API Tooling](#lifecycle) | 90min | 60min
 [API Security](#security) | 60min | 30min
-[APIs at Scale: Platforms und Governance](#governance) | 60min | 60min
+[APIs at Scale: Platforms und Governance](#governance) | 60min | 30min
 *Summe: 14h* | 10h | 4h
 
 
