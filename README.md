@@ -1,6 +1,7 @@
 # iSAQB Module API (Application Programming Interfaces)
 
-- [Proposal for API Module](proposal.md)
+- [Proposal for API Module (Juli 2024)](proposal.md)
+- [Proposal for API Module v2 (September 2024)](proposal-v2.md)
 - [iSAQB Module Curricula](iSAQB-modules/)
 
 
