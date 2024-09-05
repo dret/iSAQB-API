@@ -11,6 +11,13 @@ Das Modul betrachtet die verschiedenen Arten, wie APIs Wert erzeugen: Als techni
 Im Rahmen dieses Moduls sprechen wir bei APIs immer von Netzwerk-basierten Schnittstellen, also nicht von lokalen Programmierschnittstellen.
 
 
+### Zielgruppe
+
+Primäres Publikum sind Software Architekten, Entwickler und andere technisch orientierte Personen, die sich einen umfassenden Überblick über das Thema APIs verschaffen möchten.
+
+Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte behandelt wie die Wertschöpfung und die Verwendungen von APIs als Team-Kollaboration im Unternehmen. Damit eignet sich das Modul gut, um sich dem Thema APIs mit einer weiteren Perspektive als dem rein technischen Blick zu nähern.
+
+
 ### Gliederung des Lehrplans und zeitliche Aufteilung
 
 *Inhalt* | *Vortrag (empfohlene Dauer)* | *Übungen (empfohlene Dauer)*
@@ -49,6 +56,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Lernziele:
   - Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
   - Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
+  - Vergleich unterschiedlicher Integrationsstile und -konzepte  (synchron/asynchron, ...)
   - Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
@@ -57,7 +65,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 60min
 - Übungen: 30min
 - Lernziele:
-  - Verständnis der drei grundlegenden Arten wie API Produkte die Wertschöpfung ermöglichen
+  - Verständnis grundlegender Arten wie API Produkte die Wertschöpfung ermöglichen (intern, Partner-orientiert, öffentliche Produkte), und welche Auswirkungen das auf Design und Management hat
   - Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
   - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
@@ -67,15 +75,15 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 - Vortrag: 60min
 - Übungen: 30min
 - Lernziele:
-  - Kenntnis der fünf grundlegenden API Stile und ihrer Stärken und Schwächen im Vergleich
-  - Übersicht über populäre API Technologien und deren Einteilung gemäss der fünf grundlegenden API Stile
-  - Verständnis der Kriterien wann welche Stile mehr oder weniger gut passen und der Konsequenzen der Auswahl
+  - Kenntnis verschiedener grundlegender API Stile (RPC, Resource, Hypermedia, Query, Events) und ihrer Stärken und Schwächen im Vergleich
+  - Übersicht über populäre API Technologien und deren Einteilung gemäss der verschiedenen API Stile
+  - Verständnis der Kriterien wann welche Stile/Technologien mehr oder weniger gut passen und der Konsequenzen der Auswahl
 
 
 #### <a id="openapi"></a> Beschreibung von APIs am Beispiel OpenAPI 
 
 - Vortrag: 90min
-- Übungen: 60min
+- Übungen: 30min
 - Lernziele:
   - Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
   - Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
@@ -86,7 +94,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 #### <a id="design"></a> API Design 
 
 - Vortrag: 90min
-- Übungen: 60min
+- Übungen: 30min
 - Lernziele:
   - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
   - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
@@ -96,7 +104,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 #### <a id="lifecycle"></a> API Lifecycle und API Tooling 
 
 - Vortrag: 90min
-- Übungen: 90min
+- Übungen: 60min
 - Lernziele:
   - Verschiedene Schritte des Entwicklungszyklus eines API Produkts
   - Verschiedene Phasen des Lebenszyklus eines API Produkts
@@ -117,7 +125,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 #### <a id="governance"></a> APIs at Scale: Platforms und Governance 
 
 - Vortrag: 60min
-- Übungen: 60min
+- Übungen: 30min
 - Lernziele:
   - Plattformen, Platform Engineering, und Platform as a Product als Verbesserung der Developer Experience und Effektivität
   - Verwendung und Pflege von API Guidelines um APIs konsistenter zu entwickeln
