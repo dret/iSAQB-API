@@ -99,6 +99,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
   - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
   - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
+  - Qualitätsanforderungen: Performance, Skalierung, Caching
  
 
 #### <a id="lifecycle"></a> API Lifecycle und API Tooling 
@@ -109,7 +110,7 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
   - Verschiedene Schritte des Entwicklungszyklus eines API Produkts
   - Verschiedene Phasen des Lebenszyklus eines API Produkts
   - Übersicht über die Unterschiede zwischen der Sichtweise von Produzenten und Konsumenten
-  - Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing, Mocking
+  - Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways)
 
 
 #### <a id="security"></a> API Security 
