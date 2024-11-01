@@ -1,6 +1,6 @@
-# Application Programming Interfaces
+# Lernziele für das iSAQB Modul API (Application Programming Interfaces)
 
-## iSAQB Modul API: Vorschlag von [Thilo Frotscher](https://frotscher.com/) und [Erik Wilde](https://www.linkedin.com/in/erikwilde/) (v3, November 2024)
+## [Thilo Frotscher](https://frotscher.com/) und [Erik Wilde](https://www.linkedin.com/in/erikwilde/) (v3, November 2024)
 
 ### Was vermittelt das Modul API?
 
