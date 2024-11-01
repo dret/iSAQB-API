@@ -38,59 +38,80 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 #### <a id="overview"></a> 1. Übersicht und Einführung 
 
 - **LZ 1-1**: Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
+
 - **LZ 1-2**: Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
+
 - **LZ 1-3**: Vergleich unterschiedlicher Integrationsstile und -konzepte  (synchron/asynchron, ...)
+
 - **LZ 1-4**: Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
 #### <a id="value"></a> 2. Wertschöpfung von APIs 
 
 - **LZ 2-1**: Verständnis grundlegender Arten wie API Produkte die Wertschöpfung ermöglichen (intern, Partner-orientiert, öffentliche Produkte), und welche Auswirkungen das auf Design und Management hat
+
 - **LZ 2-2**: Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
+
 - **LZ 2-3**: Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
 
 #### <a id="styles"></a> 3. API Stile und Technologien 
 
 - **LZ 3-1**: Kenntnis verschiedener grundlegender API Stile (RPC, Resource, Hypermedia, Query, Events) und ihrer Stärken und Schwächen im Vergleich
+
 - **LZ 3-2**: Übersicht über populäre API Technologien und deren Einteilung gemäss der verschiedenen API Stile
+
 - **LZ 3-3**: Verständnis der Kriterien wann welche Stile/Technologien mehr oder weniger gut passen und der Konsequenzen der Auswahl
 
 
 #### <a id="openapi"></a> 4. Beschreibung von APIs am Beispiel OpenAPI 
 
 - **LZ 4-1**: Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
+
 - **LZ 4-2**: Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
+
 - **LZ 4-3**: Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
+
 - **LZ 4-4**: Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
  
 
 #### <a id="design"></a> 5. API Design 
 
 - **LZ 5-1**: API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
+
 - **LZ 5-2**: Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
+
 - **LZ 5-3**: Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
+
 - **LZ 5-4**: Qualitätsanforderungen: Performance, Skalierung, Caching
  
 
 #### <a id="lifecycle"></a> 6. API Lifecycle und API Tooling 
 
 - **LZ 6-1**: Verschiedene Schritte des Entwicklungszyklus eines API Produkts
+
 - **LZ 6-2**: Verschiedene Phasen des Lebenszyklus eines API Produkts
+
 - **LZ 6-3**: Übersicht über die Unterschiede zwischen der Sichtweise von Produzenten und Konsumenten
+
 - **LZ 6-4**: Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways)
 
 
 #### <a id="security"></a> 7. API Security 
 
 - **LZ 7-1**: Kenntnisse der Grundlagen von Kommunikationssicherheit und der Einordnung von TCP, HTTP und TLS.
+
 - **LZ 7-2**: Verständnis von HTTPS, HTTP Authentisierung, OAuth, und OpenID Connect
+
 - **LZ 7-3**: API Gateways und andere Modelle um APIs abzusichern
   
 
 #### <a id="governance"></a> 8. APIs at Scale: Platforms und Governance 
 
 - **LZ 8-1**: Plattformen, Platform Engineering, und Platform as a Product als Verbesserung der Developer Experience und Effektivität
+
 - **LZ 8-2**: Verwendung und Pflege von API Guidelines um APIs konsistenter zu entwickeln
+
 - **LZ 8-3**: Beispiele von API Guidelines einiger Organisationen
+
 - **LZ 8-4**: Team Topologies als organisationelles Modell für effektiv arbeitene Teams
