@@ -33,111 +33,64 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 *Summe: 14h* | 10h | 4h
 
 
-### Voraussetzungen für das Modul API
+### Lernziele
 
-Teilnehmer sollten folgende Kenntnisse und/oder Erfahrungen mitbringen:
+#### <a id="overview"></a> 1. Übersicht und Einführung 
 
-- Grundlagen strukturierter Daten, insbesondere JSON und YAML
-- Basiskenntnisse von Web-Technologien wie HTTP und URIs
-- Basiskenntnisse und Erfahrung mit mindestens einer Programmiersprache
-
-Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
-
-- Praktische Erfahrungen in der Programmierung von Web-Anwendungen
-- Basiskenntnisse von Sicherheitstechnologien wie SSL/TLS
+- Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
+- Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
+- Vergleich unterschiedlicher Integrationsstile und -konzepte  (synchron/asynchron, ...)
+- Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
-### Detaillierte Beschreibung der Teile
+#### <a id="value"></a> 2. Wertschöpfung von APIs 
 
-#### <a id="overview"></a> Übersicht und Einführung 
-
-- Vortrag: 90min
-- Übungen: keine
-- Lernziele:
-  - Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
-  - Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
-  - Vergleich unterschiedlicher Integrationsstile und -konzepte  (synchron/asynchron, ...)
-  - Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
+- Verständnis grundlegender Arten wie API Produkte die Wertschöpfung ermöglichen (intern, Partner-orientiert, öffentliche Produkte), und welche Auswirkungen das auf Design und Management hat
+- Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
+- Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
 
-#### <a id="value"></a> Wertschöpfung von APIs 
+#### <a id="styles"></a> 3. API Stile und Technologien 
 
-- Vortrag: 60min
-- Übungen: 30min
-- Lernziele:
-  - Verständnis grundlegender Arten wie API Produkte die Wertschöpfung ermöglichen (intern, Partner-orientiert, öffentliche Produkte), und welche Auswirkungen das auf Design und Management hat
-  - Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
-  - Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
+- Kenntnis verschiedener grundlegender API Stile (RPC, Resource, Hypermedia, Query, Events) und ihrer Stärken und Schwächen im Vergleich
+- Übersicht über populäre API Technologien und deren Einteilung gemäss der verschiedenen API Stile
+- Verständnis der Kriterien wann welche Stile/Technologien mehr oder weniger gut passen und der Konsequenzen der Auswahl
 
 
-#### <a id="styles"></a> API Stile und Technologien 
+#### <a id="openapi"></a> 4. Beschreibung von APIs am Beispiel OpenAPI 
 
-- Vortrag: 60min
-- Übungen: 30min
-- Lernziele:
-  - Kenntnis verschiedener grundlegender API Stile (RPC, Resource, Hypermedia, Query, Events) und ihrer Stärken und Schwächen im Vergleich
-  - Übersicht über populäre API Technologien und deren Einteilung gemäss der verschiedenen API Stile
-  - Verständnis der Kriterien wann welche Stile/Technologien mehr oder weniger gut passen und der Konsequenzen der Auswahl
-
-
-#### <a id="openapi"></a> Beschreibung von APIs am Beispiel OpenAPI 
-
-- Vortrag: 90min
-- Übungen: 30min
-- Lernziele:
-  - Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
-  - Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
-  - Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
-  - Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
+- Verstehen warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
+- Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
+- Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
+- Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
  
 
-#### <a id="design"></a> API Design 
+#### <a id="design"></a> 5. API Design 
 
-- Vortrag: 90min
-- Übungen: 30min
-- Lernziele:
-  - API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
-  - Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
-  - Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
-  - Qualitätsanforderungen: Performance, Skalierung, Caching
+- API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist
+- Offenheit und Erweiterbarkeit als wichtige Aspekte um API Produkte weiterentwickeln zu können
+- Verständnis verschiedener Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird
+- Qualitätsanforderungen: Performance, Skalierung, Caching
  
 
-#### <a id="lifecycle"></a> API Lifecycle und API Tooling 
+#### <a id="lifecycle"></a> 6. API Lifecycle und API Tooling 
 
-- Vortrag: 90min
-- Übungen: 60min
-- Lernziele:
-  - Verschiedene Schritte des Entwicklungszyklus eines API Produkts
-  - Verschiedene Phasen des Lebenszyklus eines API Produkts
-  - Übersicht über die Unterschiede zwischen der Sichtweise von Produzenten und Konsumenten
-  - Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways)
+- Verschiedene Schritte des Entwicklungszyklus eines API Produkts
+- Verschiedene Phasen des Lebenszyklus eines API Produkts
+- Übersicht über die Unterschiede zwischen der Sichtweise von Produzenten und Konsumenten
+- Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways)
 
 
-#### <a id="security"></a> API Security 
+#### <a id="security"></a> 7. API Security 
 
-- Vortrag: 60min
-- Übungen: 30min
-- Lernziele:
-  - Kenntnisse der Grundlagen von Kommunikationssicherheit und der Einordnung von TCP, HTTP und TLS.
-  - Verständnis von HTTPS, HTTP Authentisierung, OAuth, und OpenID Connect
-  - API Gateways und andere Modelle um APIs abzusichern
+- Kenntnisse der Grundlagen von Kommunikationssicherheit und der Einordnung von TCP, HTTP und TLS.
+- Verständnis von HTTPS, HTTP Authentisierung, OAuth, und OpenID Connect
+- API Gateways und andere Modelle um APIs abzusichern
   
 
-#### <a id="governance"></a> APIs at Scale: Platforms und Governance 
+#### <a id="governance"></a> 8. APIs at Scale: Platforms und Governance 
 
-- Vortrag: 60min
-- Übungen: 30min
-- Lernziele:
-  - Plattformen, Platform Engineering, und Platform as a Product als Verbesserung der Developer Experience und Effektivität
-  - Verwendung und Pflege von API Guidelines um APIs konsistenter zu entwickeln
-  - Beispiele von API Guidelines einiger Organisationen
-  - Team Topologies als organisationelles Modell für effektiv arbeitende Teams
-
-
-### Referenzen
-
-- [Mike Amundsen, "RESTful Web API Patterns and Practices Cookbook", 2022](https://www.oreilly.com/library/view/restful-web-api/9781098106737/)
-- [James Higginbotham, "Principles of Web API Design: Delivering Value with APIs and Microservices", 2023](https://www.pearson.com/en-us/subject-catalog/p/principles-of-web-api-design-delivering-value-with-apis-and-microservices/P200000007278/9780137355730)
-- [Gregor Hohpe, "Platform Strategy: Innovation Through Harmonization", 2024](https://leanpub.com/platformstrategy)
-- [Ikenna Nwaiwu, "Automating API Delivery", 2024](https://www.manning.com/books/automating-api-delivery)
-- ["Platform Engineering Maturity Model", Cloud Native Computing Foundation, 2023](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+- Plattformen, Platform Engineering, und Platform as a Product als Verbesserung der Developer Experience und Effektivität
+- Verwendung und Pflege von API Guidelines um APIs konsistenter zu entwickeln
+- Beispiele von API Guidelines einiger Organisationen
+- Team Topologies als organisationelles Modell für effektiv arbeitende Teams
