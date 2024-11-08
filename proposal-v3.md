@@ -58,7 +58,13 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 
 #### <a id="value"></a> 2. Wertschöpfung von APIs 
 
-- **LZ 2-1**: Verständnis grundlegender Arten wie API Produkte die Wertschöpfung ermöglichen (intern, Partner-orientiert, öffentliche Produkte), und welche Auswirkungen das auf Design und Management hat
+- **LZ 2-1: Kenntnis verschiedener Art der API Wertschöpfung**
+
+  Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
+  - Private APIs die innerhalb einer Organisationen eingesetzt werden
+  - Partner APIs die mit etablierten Partner genutzt werden
+  - Public APIs die als Produkte nach aussen angeboten werden
+  Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zuammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie. 
 
 - **LZ 2-2**: Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
 
