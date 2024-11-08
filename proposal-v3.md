@@ -37,7 +37,9 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 
 #### <a id="overview"></a> 1. Übersicht und Einführung 
 
-- **LZ 1-1**: Teilnehmer können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur.
+- **LZ 1-1: Herkuft des API Begriffs kennen und einordnen**
+
+  Teilnehmer:innen können APIs einordnen in die Geschichte der Programmierung, Computernetzwerke, verteilten Systeme, und Softwarearchitektur. Sie verstehen die Herkunft aus den ersten Modellen der Trennung verschiedener Softwarekomponenten und die weitere Evolution des Begriffs.
 
 - **LZ 1-2**: Die Entwicklung von lokalen APIs zu Netzwerk-basierten APIs und die aktuelle API Landschaft werden in ihrem Gesamtkontext verstanden.
 
