@@ -207,6 +207,7 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
   Teilnehmer:innen verstehen die Motivation von API Guidelines, und dort vor allem das Ziel, innerhalb einen gewissen Bereiches eine Harmonisierung von API Design und von API Entwicklungspraktiken zu erreichen. Tools zur Unterstützung von API Guidelines wie Linting Tools sind bekannt und ihre Funktionsweise ist geläufig.
 
+
 - **LZ 8-3: API Guidelines by Example**
 
   Beispiele der API Guidelines einiger Organisationen sind bekannt. Des weiteren verstehen Teilnehmer:innen in welcher Art API Guidelines entwickelt und gepflegt werden sollten, nämlich als partizipativ und kontinuierlich gepflegtes Dokument von gelebten und unterstützten Praktiken in einer Organisation.
