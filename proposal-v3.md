@@ -198,10 +198,21 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
 #### <a id="governance"></a> 8. APIs at Scale: Platforms und Governance 
 
-- **LZ 8-1**: Plattformen, Platform Engineering, und Platform as a Product als Verbesserung der Developer Experience und Effektivität
+- **LZ 8-1: Vergleich verschiedener Plattform-Begriffe**
 
-- **LZ 8-2**: Verwendung und Pflege von API Guidelines um APIs konsistenter zu entwickeln
+  Teilnehmer:innen verstehen die verschiedenen Bereiche, in denen der Begriff der Plattform verwendet wird. Sie verstehen insbesondere den Begriff des Platform Engineering, seine Herkunft, und das Konzept einer Internal Developer Platform (IDP). Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer IDP und dem sowohl nach innen als auch nach aussen gerichteten Fokus einer API Plattform unterscheiden.
 
-- **LZ 8-3**: Beispiele von API Guidelines einiger Organisationen
 
-- **LZ 8-4**: Team Topologies als organisationelles Modell für effektiv arbeitene Teams
+- **LZ 8-2: API Guidelines**
+
+  Teilnehmer:innen verstehen die Motivation von API Guidelines, und dort vor allem das Ziel, innerhalb einen gewissen Bereiches eine Harmonisierung von API Design und von API Entwicklungspraktiken zu erreichen. Tools zur Unterstützung von API Guidelines wie Linting Tools sind bekannt und ihre Funktionsweise ist geläufig.
+
+- **LZ 8-3: API Guidelines by Example**
+
+  Beispiele der API Guidelines einiger Organisationen sind bekannt. Des weiteren verstehen Teilnehmer:innen in welcher Art API Guidelines entwickelt und gepflegt werden sollten, nämlich als partizipativ und kontinuierlich gepflegtes Dokument von gelebten und unterstützten Praktiken in einer Organisation.
+
+
+- **LZ 8-4: Team Topologies**
+
+  Teilnehmer:innen keinnen Team Topologies als organisationelles Modell für effektiv arbeitende Teams. Dabei ist der Fokus vor allem darauf, an welches Stellen des Team Topologies Modells APIs essentiell notwendig für die Umsetzung des Modells sind. Dies sind zum einen der Konsum von Diensten X-a-a-S Modell, und zum anderen das Anbieten von Diensten vor allem von Platform Teams die ihren Platform Dienst im Self Service anbieten wollen.
+  
