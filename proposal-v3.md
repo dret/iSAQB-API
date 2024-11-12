@@ -75,7 +75,9 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftmodelle analysieren und mit APIs gezielt ergänzen und erweitern.
 
 
-- **LZ 2-3**: Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
+- **LZ 2-3: APIs und Digitale Transformation**:
+
+Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. Verschiedene Plattform-Begriffe sind bekannt und ihre Unterschiede und ihr Ineinnandergreifen wird verstanden. API Plattformen als eine Art der Verteilung von APIs werden verstanden und ihre Relation zum Konzept einer Internal Developer Platform (IDP) aus dem Bereich des Platform Engineering. 
 
 
 #### <a id="styles"></a> 3. API Stile und Technologien
