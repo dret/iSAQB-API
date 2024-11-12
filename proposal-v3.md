@@ -45,6 +45,7 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 - **LZ 1-2: Vergleich unterschiedlicher Integrationsstile und -konzepte**
 
   Unterschiedliche Ansätze zur Systemintegration sind den Teilnehmer:innen bekannt und können gegeneinander abgegrenzt werden, insbesondere
+  
   - Integration über eine Datenbank
   - Dateibasierte Systemintegration
   - Integration durch synchrone Kommunikation (RPC)
@@ -61,12 +62,18 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 - **LZ 2-1: Kenntnis verschiedener Art der API Wertschöpfung**
 
   Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
+  
   - Private APIs die innerhalb einer Organisationen eingesetzt werden
   - Partner APIs die mit etablierten Partner genutzt werden
   - Public APIs die als Produkte nach aussen angeboten werden
+  
   Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zuammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie. 
 
-- **LZ 2-2**: Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele
+
+- **LZ 2-2: API Business Models** 
+
+Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftmodelle analysieren und mit APIs gezielt ergänzen und erweitern.
+
 
 - **LZ 2-3**: Die Verwendung von APIs als eine Grundlage digitaler Transformation und essentielle Eigenschaften der APIs
 
@@ -157,13 +164,12 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 
 - **LZ 7-1: Grundlagen von Kommunikationssicherheit**
 
-  Teilnehmer:innen kennen die Grundlagen von Kommunikationssicherheit und können Technologien wie TCP, HTTP und TLS einordnen.
-  Zusätzlich wird den Teilnehmer:innen ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch bei unternehmensinternen Schnittstellen - vermittelt. 
+  Teilnehmer:innen kennen die Grundlagen von Kommunikationssicherheit und können Technologien wie TCP, HTTP und TLS einordnen. Zusätzlich wird den Teilnehmer:innen ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch bei unternehmensinternen Schnittstellen - vermittelt. 
 
 
 - **LZ 7-2**: Verständnis relevante Technologien im API-Umfeld
 
-  Teilnehmerinnen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
+  Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
 
 
 - **LZ 7-3**: API Gateways und andere Modelle um APIs abzusichern
