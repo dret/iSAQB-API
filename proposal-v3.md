@@ -117,16 +117,18 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
 - **LZ 4-2: OpenAPI als Beschreibungssprache für HTTP APIs**
 
-  Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
+  Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache. Sie verstehen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben. Teilnehmer:innen verstehen wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt. Die generellen Strukturen von JSON und YAML sind bekannt.
+
 
 - **LZ 4-3: Der Aufbau von OpenAPI**
 
-  Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
+  Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden. Die Hauptelemente im Sinne von Resourcen (Paths), Interaktionen, und Repräsentationen sowie Mechanismen wie Tags, Security, Components, und Webhooks.
+
 
 - **LZ 4-4: Andere Beschreibungssprachen im Vergleich**
 
-  Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
- 
+  OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können andere Beschreibungssprachen verwendet werden die ähnliche generelle Ziele haben wie OpenAPI. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
+
 
 #### <a id="design"></a> 5. API Design
 
