@@ -110,7 +110,10 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
 #### <a id="openapi"></a> 4. Beschreibung von APIs am Beispiel OpenAPI 
 
-- **LZ 4-1**: Verstehen, warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können
+- **LZ 4-1: APIs und API Beschreibungen**
+
+  Teilnehmer:innen verstehen, warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können. Das Problem des "API Drift" ist bekannt und Teilnehmer:innen verstehen das Zusammenspiel von Design, Versionierung, Beschreibung, Versionierung der Beschreibung, und wie diese Dinge im Idealfall und in der Realität praktiziert werden.
+
 
 - **LZ 4-2**: Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
 
