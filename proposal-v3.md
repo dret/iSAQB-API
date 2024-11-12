@@ -112,14 +112,20 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
 - **LZ 4-1: APIs und API Beschreibungen**
 
-  Teilnehmer:innen verstehen, warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können. Das Problem des "API Drift" ist bekannt und Teilnehmer:innen verstehen das Zusammenspiel von Design, Versionierung, Beschreibung, Versionierung der Beschreibung, und wie diese Dinge im Idealfall und in der Realität praktiziert werden.
+  Teilnehmer:innen verstehen, warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können. Das Problem des "API Drift" ist bekannt und Teilnehmer:innen verstehen das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung, und wie diese Dinge im Idealfall und in der Realität praktiziert werden.
 
 
-- **LZ 4-2**: Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
+- **LZ 4-2: OpenAPI als Beschreibungssprache für HTTP APIs**
 
-- **LZ 4-3**: Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
+  Übersicht von OpenAPI als einer konkreten Beschreibungssprache und deren Zielen und Design
 
-- **LZ 4-4**: Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
+- **LZ 4-3: Der Aufbau von OpenAPI**
+
+  Verständnis der Hauptelemente einer OpenAPI-Beschreibung im Sinne von Resourcen, Interaktionen, und Repräsentationen
+
+- **LZ 4-4: Andere Beschreibungssprachen im Vergleich**
+
+  Kenntnis anderer Beschreibungssprachen (AsyncAPI, GraphQL, gRPC) und ihrer Unterschiede im Vergleich zu OpenAPI
  
 
 #### <a id="design"></a> 5. API Design
