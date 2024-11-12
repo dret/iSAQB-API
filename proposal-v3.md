@@ -137,40 +137,46 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
   Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung der Schnittstelle haben wird.
 
 
-- **LZ 5-1: API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist**
+- **LZ 5-2: API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist**
 
   Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers. Vor diesem Hintergrund ist es von großer Bedeutung, das Design auf die Anforderungen der Konsumenten zu fokussieren und nicht etwa entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design. 
 
 
-- **LZ 5-2: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs**
+- **LZ 5-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs**
 
   Teilnehmer:innen kennen Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen immensen Einfluss diese auf die Möglichkeit der Weiterentwicklung von API-Schnittstellen hat. Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprache hat.
 
 
-- **LZ 5-3: Best Practices für gelungenes API Design**
+- **LZ 5-4: Best Practices für gelungenes API Design**
 
   Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP APIs kennen. Hierzu zählen u.a. URL-Pfade, korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren. Weiterhin sind Formatvorschläge wie JSON:API oder Problem Details for HTTP APIs (RFC 9457) bekannt. Die Vorteile und Herausforderungen eines API Design Style Guides werden von den Teilnehmer:innen verstanden.
 
 
-- **LZ 5-4: Versionierung von APIs**
+- **LZ 5-5: Versionierung von APIs**
 
   Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird.
 
 
-- **LZ 5-5: Qualitätsanforderungen: Performance, Skalierung, Caching**
+- **LZ 5-6: Qualitätsanforderungen: Performance, Skalierung, Caching**
 
   tbd: Sollte dieses Lernziel in einen anderen Abschnitt verschoben werden? 
  
 
 #### <a id="lifecycle"></a> 6. API Lifecycle und API Tooling
 
-- **LZ 6-1**: Verschiedene Schritte des Entwicklungszyklus eines API Produkts
+- **LZ 6-1: API Lifecycle**
 
-- **LZ 6-2**: Verschiedene Phasen des Lebenszyklus eines API Produkts
+  Teilnehmer:innen kennen verschiedene Schritte des Entwicklungszyklus eines API Produkts und kennen die typischen Aufgaben die bei diesen Schritten anfallen. Die Aufteilung in Planung und Anforderungsanalyse, Design und Prototyping, Entwicklung, Testing und Qualitätsprüfung, Deployment und Veröffentlichung, Betrieb und Wartung, und Verbesserung und Iteration sind bekannt. Ebenfalls bekannt sind die verschiedenen Lebensphasen eines APIs wie Prototyp, produktiver Betrieb, Deprecation, und das Abschalten.
 
-- **LZ 6-3**: Übersicht über die Unterschiede zwischen der Sichtweise von Produzenten und Konsumenten
 
-- **LZ 6-4**: Tools zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways)
+- **LZ 6-2: APIs als Produkte managen**
+
+  APIs kommen oft in lose gekoppelten Szenarien zum Einsatz und aus diesem Grund ist es sinnvoll, sie als Produkte zu managen. Teilnehmer:innen verstehen, was es bedeutet, ein API als Produkt zu managen. Dies beginnt beim Zielgruppenfokus, berücksichtigt Fragen der Nutzbarkeit, beinhaltet Fragen von Feeback und Verbesserung, und behandelt auch Fragen von Deprecation und der Bereitstellung von Alternativen.
+  
+
+- **LZ 6-3: API Lifecycle Tooling**
+
+  Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways). Teilenhmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen diese Tools einzuordnen in das Gesamtbild des API Lifecycle Tooling.
 
 
 #### <a id="security"></a> 7. API Security
@@ -180,12 +186,12 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
   Teilnehmer:innen kennen die Grundlagen von Kommunikationssicherheit und können Technologien wie TCP, HTTP und TLS einordnen. Zusätzlich wird den Teilnehmer:innen ein Bewusstsein für die Notwendigkeit sicherer Kommunikation - auch bei unternehmensinternen Schnittstellen - vermittelt. 
 
 
-- **LZ 7-2**: Verständnis relevante Technologien im API-Umfeld
+- **LZ 7-2: Verständnis relevante Technologien im API-Umfeld**
 
   Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
 
 
-- **LZ 7-3**: API Gateways und andere Modelle um APIs abzusichern
+- **LZ 7-3: API Gateways und andere Modelle um APIs abzusichern**
 
   tbd: Welche "anderen Modelle" sollten hier berücksichtigt werden?
 
