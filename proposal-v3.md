@@ -22,11 +22,11 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 
 *Inhalt* | *Vortrag (empfohlene Dauer)* | *Übungen (empfohlene Dauer)*
 :-- | :--: | :--:
-[Übersicht und Einführung](#overview) | 90min | keine
-[Wertschöpfung von APIs](#value) | 60min | 30min
+[Übersicht und Einführung](#overview) | 60min | keine
+[Wertschöpfung von APIs](#value) | 90min | 30min
 [API Stile und Technologien](#styles) | 60min | 30min
-[Beschreibung von APIs am Beispiel OpenAPI](#openapi) | 90min | 30min
 [API Design](#design) | 90min | 30min
+[Beschreibung von APIs am Beispiel OpenAPI](#openapi) | 90min | 30min
 [API Lifecycle und API Tooling](#lifecycle) | 90min | 60min
 [API Security](#security) | 60min | 30min
 [APIs at Scale: Platforms und Governance](#governance) | 60min | 30min
@@ -52,53 +52,57 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
   - Integration durch asynchrone Kommunikation, z.B. über Message Queues 
 
 
-- **LZ 1-3: Verständnis des Begriffs "API Economy"**
+#### <a id="value"></a> 2. Wertschöpfung von APIs 
+
+- **LZ 2-1: Verständnis des Begriffs "API Economy"**
 
   Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer:innen können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
-#### <a id="value"></a> 2. Wertschöpfung von APIs 
-
-- **LZ 2-1: Kenntnis verschiedener Art der API Wertschöpfung**
+- **LZ 2-2: Kenntnis verschiedener Art der API Wertschöpfung**
 
   Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
   
   - Private APIs die innerhalb einer Organisationen eingesetzt werden
-  - Partner APIs die mit etablierten Partner genutzt werden
+  - Partner APIs die mit etablierten Partnern genutzt werden
   - Public APIs die als Produkte nach aussen angeboten werden
   
-  Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zuammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie. 
+  Teilnehmer:innen verstehen die verschiedenen Optionen innerhalb und Zusammenhänge zwischen diesen Kategorien und den Wert einer übergreifenden API Strategie. 
 
 
-- **LZ 2-2: API Business Models** 
+- **LZ 2-3: API Business Models** 
 
-Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftmodelle analysieren und mit APIs gezielt ergänzen und erweitern.
+  Teilnehmer:innen haben ein detailliertes Verständnis der möglichen Geschäftsmodelle von APIs und einiger ausgewählter Beispiele. Ausgehend von den verschiedenen Arten der API Wertschöpfung können Teilnehmer:innen bestehende Geschäftsmodelle analysieren und mit APIs gezielt ergänzen und erweitern. [API Business Model Report]
 
 
-- **LZ 2-3: APIs und Digitale Transformation**:
+- **LZ 2-4: APIs und Digitale Transformation**:
 
-Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. Verschiedene Plattform-Begriffe sind bekannt und ihre Unterschiede und ihr Ineinnandergreifen wird verstanden. API Plattformen als eine Art der Verteilung von APIs werden verstanden und ihre Relation zum Konzept einer Internal Developer Platform (IDP) aus dem Bereich des Platform Engineering. 
-
+  Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. Verschiedene Plattform-Begriffe sind bekannt und ihre Unterschiede und ihr Ineinandergreifen wird verstanden.
+  
+  - Internal Developer Platform (IDP)
+  - API Plattform
+  - Business Plattform
+  
 
 #### <a id="styles"></a> 3. API Stile und Technologien
 
 - **LZ 3-1: Kenntnis verschiedener grundlegender API-Stile**
 
   Die folgenden API-Stile werden erläutert und ihre Vor- und Nachteile gegeneinander abgewogen:
+
   - RPC
   - Resourcen-basiert
   - Hypermedia
   - Query
   - Events & asynchrone Kommunikation
-  
-  Teilnehmer:innen kennen Stärken und Schwächen der einzelnen API-Stile im Vergleich miteinander.
 
 
 - **LZ 3-2: Populäre API-Technologien und Einordnung gemäß ihrer jeweiligen API-Stile**
 
   Teilnehmer:innen können die wichtigsten populären API-Technologien einordnen und kennen den von ihnen implementierten API-Stil, z.B.:
+  
   - gRPC
-  - HTTP APIs (ohne Hypermedia)
+  - HTTP APIs
   - REST
   - GraphQL
 
@@ -108,59 +112,59 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
   Teilnehmer:innen erwerben ein Verständnis für Kriterien, wann welche Stile/Technologien besser oder weniger gut passen und welche Konsequenzen die jeweilige Auswahl mit sich bringt.
 
 
-#### <a id="openapi"></a> 4. Beschreibung von APIs am Beispiel OpenAPI 
+  #### <a id="design"></a> 4. API Design
 
-- **LZ 4-1: APIs und API Beschreibungen**
-
-  Teilnehmer:innen verstehen, warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können. Das Problem des "API Drift" ist bekannt und Teilnehmer:innen verstehen das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung, und wie diese Dinge im Idealfall und in der Realität praktiziert werden.
-
-
-- **LZ 4-2: OpenAPI als Beschreibungssprache für HTTP APIs**
-
-  Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache. Sie verstehen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben. Teilnehmer:innen verstehen wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt. Die generellen Strukturen von JSON und YAML sind bekannt.
-
-
-- **LZ 4-3: Der Aufbau von OpenAPI**
-
-  Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden. Die Hauptelemente im Sinne von Resourcen (Paths), Interaktionen, und Repräsentationen sowie Mechanismen wie Tags, Security, Components, und Webhooks.
-
-
-- **LZ 4-4: Andere Beschreibungssprachen im Vergleich**
-
-  OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können andere Beschreibungssprachen verwendet werden die ähnliche generelle Ziele haben wie OpenAPI. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
-
-
-#### <a id="design"></a> 5. API Design
-
-- **LZ 5-1: Bedeutung von API Design**
-  
+- **LZ 4-1: Bedeutung von API Design**
+    
   Teilnehmer:innen verstehen, weshalb ein gewissenhaftes Design von API-Schnittstellen von großer Bedeutung ist und welchen Einfluss dies auf die Nutzbarkeit, Wartung, Weiterentwicklung und Verbreitung der Schnittstelle haben wird.
 
 
-- **LZ 5-2: API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist**
+- **LZ 4-2: API Design als "Outside-in" Ansatz bei dem das Design auf Konsumenten fokussiert ist**
 
-  Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers. Vor diesem Hintergrund ist es von großer Bedeutung, das Design auf die Anforderungen der Konsumenten zu fokussieren und nicht etwa entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design. 
+  Zu den wichtigsten Zielen von APIs zählt die effiziente Anbindung von Konsumenten an die Schnittstelle des Betreibers. Vor diesem Hintergrund ist es von großer Bedeutung, das Design auf die Anforderungen der Konsumenten zu fokussieren und nicht entlang eventuell bestehender Systeme, Use Cases oder Datenbanken. Teilnehmer:innen kennen und verstehen die Ansätze von API First und konsumentengetriebenem API-Design. 
 
 
-- **LZ 5-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs**
+- **LZ 4-3: Offenheit und Erweiterbarkeit als wichtige Aspekte für die Weiterentwicklung von APIs**
 
   Teilnehmer:innen kennen Postel's Law, die Bedeutung von Forward und Backward Compatibility und welchen immensen Einfluss diese auf die Möglichkeit der Weiterentwicklung von API-Schnittstellen hat. Darüber hinaus erfahren Teilnehmer:innen, welche Konsequenzen dies für die Implementierung von APIs und deren Clients in streng und statisch typisierten Programmiersprache hat.
 
 
-- **LZ 5-4: Best Practices für gelungenes API Design**
-
-  Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP APIs kennen. Hierzu zählen u.a. URL-Pfade, korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren. Weiterhin sind Formatvorschläge wie JSON:API oder Problem Details for HTTP APIs (RFC 9457) bekannt. Die Vorteile und Herausforderungen eines API Design Style Guides werden von den Teilnehmer:innen verstanden.
-
-
-- **LZ 5-5: Versionierung von APIs**
+- **LZ 4-4: Versionierung von APIs**
 
   Teilnehmer:innen erlangen ein Verständnis für verschiedene Aspekte der Versionierung und wie sie innerhalb des Lebenszylus eines API Produkts verwendet wird.
 
 
-- **LZ 5-6: Qualitätsanforderungen: Performance, Skalierung, Caching**
+- **LZ 4-5: Good Practices für gelungenes API Design**
 
-  tbd: Sollte dieses Lernziel in einen anderen Abschnitt verschoben werden? 
- 
+  Teilnehmer:innen lernen bewährte und verbreitete Ansätze für das Design von HTTP APIs kennen. Hierzu zählen u.a. URL-Pfade, korrekte Verwendung von HTTP-Methoden oder Operationen für häufig benötigte Funktionalität wie Suchen, Filtern oder Sortieren. Weiterhin sind Formatvorschläge wie JSON:API oder Problem Details for HTTP APIs (RFC 9457) bekannt. Die Vorteile und Herausforderungen eines API Design Style Guides werden von den Teilnehmer:innen verstanden. [API Design Patterns]
+   
+
+#### <a id="openapi"></a> 5. Beschreibung von APIs am Beispiel OpenAPI 
+
+- **LZ 5-1: APIs und API Beschreibungen**
+
+  Teilnehmer:innen verstehen, warum API-Beschreibungen Nutzen erzeugen und von wem sie wofür benutzt werden können. Das Problem des "API Drift" ist bekannt und Teilnehmer:innen verstehen das Zusammenspiel von Design, Implementierung, Versionierung, Beschreibung, Versionierung der Beschreibung, und wie diese Dinge im Idealfall und in der Realität praktiziert werden.
+
+
+- **LZ 5-2: OpenAPI als Beschreibungssprache für HTTP APIs**
+
+  Teilnehmer:innen verstehen OpenAPI als eine auf HTTP APIs spezialisierte Beschreibungssprache. Sie verstehen die Geschichte von OpenAPI und wie sich die verschiedenen Versionen entwickelt haben. Teilnehmer:innen verstehen wie sich OpenAPI zur Codegenerierung auf der Anbieter- oder Konsumentenseite verwenden lässt. Die generellen Strukturen von JSON und YAML sind bekannt.
+
+
+- **LZ 5-3: Der Aufbau von OpenAPI**
+
+  Teilnehmer:innen verstehen die Hauptelemente einer OpenAPI Beschreibung und wie diese für konkrete APIs verwendet werden.
+  
+  - Resourcen (Paths)
+  - Interaktionen
+  - Repräsentationen
+  - Mechanismen wie Tags, Security, Components, und Webhooks
+
+
+- **LZ 5-4: Andere Beschreibungssprachen im Vergleich**
+
+  OpenAPI ist spezialisiert auf HTTP APIs. Für andere API-Stile können andere Beschreibungssprachen verwendet werden die ähnliche generelle Ziele haben wie OpenAPI. Teilnehmer:innen kennen diese alternativen Beschreibungssprachen und können sie API-Stilen zuordnen.
+
 
 #### <a id="lifecycle"></a> 6. API Lifecycle und API Tooling
 
@@ -176,7 +180,7 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
 
 - **LZ 6-3: API Lifecycle Tooling**
 
-  Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways). Teilenhmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen diese Tools einzuordnen in das Gesamtbild des API Lifecycle Tooling.
+  Teilnehmer:innen kennen typische Tools für den Einsatz im API Lifecycle zur Unterstützung von Produzenten und Konsumenten wie Linting, Testing (z.B. Consumer-driven Contract Testing), Mocking, Betrieb (API Gateways). Teilnehmer:innen können mit einigen dieser Tools praktisch arbeiten und verstehen diese Tools einzuordnen in das Gesamtbild des API Lifecycle Tooling.
 
 
 #### <a id="security"></a> 7. API Security
@@ -191,16 +195,12 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
   Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
 
 
-- **LZ 7-3: API Gateways und andere Modelle um APIs abzusichern**
 
-  tbd: Welche "anderen Modelle" sollten hier berücksichtigt werden?
-
-
-#### <a id="governance"></a> 8. APIs at Scale: Platforms und Governance 
+#### <a id="governance"></a> 8. APIs at Scale: Plattformen und Governance 
 
 - **LZ 8-1: Vergleich verschiedener Plattform-Begriffe**
 
-  Teilnehmer:innen verstehen die verschiedenen Bereiche, in denen der Begriff der Plattform verwendet wird. Sie verstehen insbesondere den Begriff des Platform Engineering, seine Herkunft, und das Konzept einer Internal Developer Platform (IDP). Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer IDP und dem sowohl nach innen als auch nach aussen gerichteten Fokus einer API Plattform unterscheiden.
+  Teilnehmer:innen verstehen die verschiedenen Bereiche, in denen der Begriff der Plattform verwendet wird. Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer IDP und dem sowohl nach innen als auch nach aussen gerichteten Fokus einer API Plattform unterscheiden.
 
 
 - **LZ 8-2: API Guidelines**
@@ -213,7 +213,7 @@ Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transfor
   Beispiele der API Guidelines einiger Organisationen sind bekannt. Des weiteren verstehen Teilnehmer:innen in welcher Art API Guidelines entwickelt und gepflegt werden sollten, nämlich als partizipativ und kontinuierlich gepflegtes Dokument von gelebten und unterstützten Praktiken in einer Organisation.
 
 
-- **LZ 8-4: Team Topologies**
+- **LZ 8-4: APIs als Team-Schnittstellen**
 
-  Teilnehmer:innen keinnen Team Topologies als organisationelles Modell für effektiv arbeitende Teams. Dabei ist der Fokus vor allem darauf, an welches Stellen des Team Topologies Modells APIs essentiell notwendig für die Umsetzung des Modells sind. Dies sind zum einen der Konsum von Diensten X-a-a-S Modell, und zum anderen das Anbieten von Diensten vor allem von Platform Teams die ihren Platform Dienst im Self Service anbieten wollen.
+  Teilnehmer:innen kennen Team Topologies als organisationelles Modell für effektiv arbeitende Teams. Dabei ist der Fokus vor allem darauf, an welchen Stellen des Team Topologies Modells APIs essentiell notwendig für die Umsetzung des Modells sind. Dies sind zum einen der Konsum von Diensten X-a-a-S Modell, und zum anderen das Anbieten von Diensten vor allem von Platform Teams die ihren Platform Dienst im Self Service anbieten wollen.
   
