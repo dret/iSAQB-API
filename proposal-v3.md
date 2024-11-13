@@ -48,8 +48,8 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
   
   - Integration über eine Datenbank
   - Dateibasierte Systemintegration
-  - Integration durch synchrone Kommunikation (RPC)
-  - Integration durch asynchrone Kommunikation, z.B. über Message Queues 
+  - Integration durch synchrone Kommunikation, z.B RPC
+  - Integration durch asynchrone Kommunikation, z.B. Message Queues 
 
 
 #### <a id="value"></a> 2. Wertschöpfung von APIs 
@@ -77,11 +77,7 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 
 - **LZ 2-4: APIs und Digitale Transformation**:
 
-  Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. Verschiedene Plattform-Begriffe sind bekannt und ihre Unterschiede und ihr Ineinandergreifen wird verstanden.
-  
-  - Internal Developer Platform (IDP)
-  - API Plattform
-  - Business Plattform
+  Teilnehmer:innen können APIs einordnen in das grössere Bild digitaler Transformation. APIs werden als notwendiger (aber nicht hinreichender) Teil einer digitalen Transformation verstanden, und andere notwendige Aspekte sind ebenfalls bekannt.
   
 
 #### <a id="styles"></a> 3. API Stile und Technologien
@@ -200,7 +196,13 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
 
 - **LZ 8-1: Vergleich verschiedener Plattform-Begriffe**
 
-  Teilnehmer:innen verstehen die verschiedenen Bereiche, in denen der Begriff der Plattform verwendet wird. Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer IDP und dem sowohl nach innen als auch nach aussen gerichteten Fokus einer API Plattform unterscheiden.
+  Teilnehmer:innen verstehen die verschiedenen Bereiche, in denen der Begriff der Plattform verwendet wird. Verschiedene Plattform-Begriffe sind bekannt und ihre Unterschiede und ihr Ineinandergreifen wird verstanden.
+  
+  - Internal Developer Platform (IDP)
+  - API Plattform
+  - Business Plattform
+  
+  Teilnehmer:innen können zwischen dem mehr nach innen gerichteten Fokus einer IDP und dem sowohl nach innen als auch nach aussen gerichteten Fokus einer API Plattform unterscheiden.
 
 
 - **LZ 8-2: API Guidelines**
