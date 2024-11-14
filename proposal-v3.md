@@ -59,7 +59,7 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
   Der Begriff der "API Economy" wird in seiner gesamten Breite verstanden und Teilnehmer:innen können beurteilen, wie ihre Produkte und Aktivitäten dort eingeordnet werden können.
 
 
-- **LZ 2-2: Kenntnis verschiedener Art der API Wertschöpfung**
+- **LZ 2-2: Kenntnis verschiedener Arten der API Wertschöpfung**
 
   Teilnehmer:innen kennen und verstehen die verschiedenen Arten, wie APIs zur Wertschöpfung beitragen können. Die verschiedenen Arten können auf der obersten Ebene unterschieden werden:
   
