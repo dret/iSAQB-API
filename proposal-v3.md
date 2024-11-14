@@ -191,7 +191,6 @@ Neben dem Schwerpunkt auf technischem Themen werden auch strategische Aspekte be
   Teilnehmer:innen verstehen, wie HTTPS, HTTP-Authentisierung, OAuth und OpenID Connect funktionieren, inwiefern diese sich unterscheiden und wie die Technologien bei der Absicherung von APIs helfen.
 
 
-
 #### <a id="governance"></a> 8. APIs at Scale: Plattformen und Governance 
 
 - **LZ 8-1: Vergleich verschiedener Plattform-Begriffe**
