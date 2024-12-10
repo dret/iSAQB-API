@@ -8,7 +8,7 @@
 - [Proposal for API Module, July 2024](proposal.md) ([PDF](proposal.pdf))
 - [Proposal for API Module v2, September 2024](proposal-v2.md) ([PDF](proposal-v2.pdf))
 - [Proposal for API Module v3, November 2024](proposal-v3.md) ([PDF](proposal-v3.pdf))
-- [iSAQB Module Curricula](iSAQB-modules/)
+- [Collection of existing iSAQB Module Curricula](iSAQB-modules/)
 
 
 ## Web Resources
