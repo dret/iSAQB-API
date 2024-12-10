@@ -1,6 +1,6 @@
 # iSAQB Module API (Application Programming Interfaces)
 
-Update December 10, 2024: This Repo is not being updated anymore. Please refer to the [official iSAQB API Module Repo](https://github.com/isaqb-org/curriculum-api) for the latest status and versions.
+*Update December 10, 2024:* This Repo is not being updated anymore. Please refer to the [official iSAQB API Module Repo](https://github.com/isaqb-org/curriculum-api) for the latest status and versions.
 
 
 ## Proposals
